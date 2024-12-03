@@ -1,4 +1,4 @@
-import java.util.*;
+package From_No_Bugs;
 
 public class Main {
     public static void main(String[] args) {
@@ -28,30 +28,5 @@ public class Main {
 
         Triangle firstTriangle = new Triangle(10, 12, 15);
         System.out.println(firstTriangle.printTriangleInfo());
-
-        List<Integer> numbers = Arrays.asList(6, 8, 8, 1, 1, 2, 5);
-        List<Integer> resultNumbers = CollectionRemoveDuplicates.removeDuplicates(numbers);
-        System.out.println(resultNumbers);
-
-        List<String> strings1 = Arrays.asList("apple", "banana", "apple", "cherry", "mango");
-        List<String> strings2 = Arrays.asList("cherry", "banana", "pineapple", "broccoli", "mango");
-        System.out.print(CollectionMergeAndSort.mergeAndSort(strings1, strings2) + "\n");
-
-        List<String> listOfWords = Arrays.asList("apple", "banana", "apple", "cherry", "banana", "banana");
-        System.out.print(CollectionWordsFrequency.showWordsFrequency(listOfWords) + "\n");
-
-        List<Integer> listOfNumbers = Arrays.asList(1, 2, 3, 4, 5);
-        System.out.print(CollectionReversed.reverseList(listOfNumbers) + "\n");
-
-        List<Integer> numbersList = Arrays.asList(10, 20, 30, 40, 50);
-        System.out.print(CollectionMaxEl.findMaxEl(numbersList));
-        List<Integer> emptyNumbersList = Arrays.asList();
-        System.out.print(CollectionMaxEl.findMaxEl(emptyNumbersList));
-
-        TaskQueue queue = new TaskQueue();
-        queue.addTask(Arrays.asList("Сделать конспект", "Решить задачи"));
-        System.out.println(queue.getNextTask());
-        System.out.println(queue.getNextTask());
-        System.out.println(queue.getNextTask());
     }
 }

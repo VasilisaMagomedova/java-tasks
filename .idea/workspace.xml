@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b355702-5dd9-4e78-8118-bab1e7f64c67" name="Changes" comment="added solutions 1-3 for collection tasks">
-      <change afterPath="$PROJECT_DIR$/src/TaskQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/From_No_Bugs/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionMaxEl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/CollectionMaxEl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionRemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionRemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/From_No_Bugs/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/TaskQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/From_No_Bugs/TaskSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/From_No_Bugs/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +46,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="feature" />
-                    <option name="lastUsedInstant" value="1733210973" />
+                    <option name="lastUsedInstant" value="1733214088" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
@@ -66,7 +72,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CollectionMaxEl.executor": "Run",
+    "Application.CollectionRemoveDuplicates.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.TaskQueue.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "feature",

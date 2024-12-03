@@ -1,3 +1,5 @@
+package From_No_Bugs;
+
 public class Triangle {
     private double a;
     private double b;
