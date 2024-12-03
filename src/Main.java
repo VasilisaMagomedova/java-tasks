@@ -35,9 +35,17 @@ public class Main {
 
         List<String> strings1 = Arrays.asList("apple", "banana", "apple", "cherry", "mango");
         List<String> strings2 = Arrays.asList("cherry", "banana", "pineapple", "broccoli", "mango");
-        System.out.print(CollectionMergeAndSort.mergeAndSort(strings1, strings2));
+        System.out.print(CollectionMergeAndSort.mergeAndSort(strings1, strings2) + "\n");
 
         List<String> listOfWords = Arrays.asList("apple", "banana", "apple", "cherry", "banana", "banana");
-        System.out.print(CollectionWordsFrequency.showWordsFrequency(listOfWords));
+        System.out.print(CollectionWordsFrequency.showWordsFrequency(listOfWords) + "\n");
+
+        List<Integer> listOfNumbers = Arrays.asList(1, 2, 3, 4, 5);
+        System.out.print(CollectionReversed.reverseList(listOfNumbers) + "\n");
+
+        List<Integer> numbersList = Arrays.asList(10, 20, 30, 40, 50);
+        System.out.print(CollectionMaxEl.findMaxEl(numbersList));
+        List<Integer> emptyNumbersList = Arrays.asList();
+        System.out.print(CollectionMaxEl.findMaxEl(emptyNumbersList));
     }
 }
