@@ -1,3 +1,5 @@
+package From_No_Bugs;
+
 public class TaskSolver {
     public boolean canDivideBy5And7(int a) {
 //        Напишите функцию, которая принимает целое число и возвращает true, если оно делится на 5 и на 7

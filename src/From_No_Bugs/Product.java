@@ -1,3 +1,5 @@
+package From_No_Bugs;
+
 public class Product {
     private String name;
     private String category;
