@@ -47,5 +47,11 @@ public class Main {
         System.out.print(CollectionMaxEl.findMaxEl(numbersList));
         List<Integer> emptyNumbersList = Arrays.asList();
         System.out.print(CollectionMaxEl.findMaxEl(emptyNumbersList));
+
+        TaskQueue queue = new TaskQueue();
+        queue.addTask(Arrays.asList("Сделать конспект", "Решить задачи"));
+        System.out.println(queue.getNextTask());
+        System.out.println(queue.getNextTask());
+        System.out.println(queue.getNextTask());
     }
 }
