@@ -8,13 +8,15 @@ public class AverageValue {
         List<Integer> numbersList = Arrays.asList(10, 20, 30, 40);
         List<Integer> numbersList2 = Arrays.asList();
 
-        OptionalDouble averageValue = numbersList.stream()
+        Double averageValue = numbersList.stream()
                 .mapToInt(Integer::intValue)
-                .average();
+                .average()
+                .orElse(0);
 
-        OptionalDouble averageValue2 = numbersList2.stream()
+        Double averageValue2 = numbersList2.stream()
                 .mapToInt(Integer::intValue)
-                .average();
+                .average()
+                .orElse(0);
 
 
         System.out.println(averageValue);
