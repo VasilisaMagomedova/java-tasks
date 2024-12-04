@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b355702-5dd9-4e78-8118-bab1e7f64c67" name="Changes" comment="added solutions 1-3 for collection tasks">
-      <change afterPath="$PROJECT_DIR$/src/Stream_API/FilteredStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stream_API/SumOfEvenNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="feature" />
-                    <option name="lastUsedInstant" value="1733216193" />
+                    <option name="lastUsedInstant" value="1733303191" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
@@ -59,16 +57,20 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2pW7VWrhCP1GmenIGbyeJw522R2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AverageValue.executor": "Run",
     "Application.CollectionMaxEl.executor": "Run",
     "Application.CollectionRemoveDuplicates.executor": "Run",
     "Application.FilteredStream.executor": "Run",
+    "Application.FirstMatchToA.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SumOfEvenNumbers.executor": "Run",
     "Application.TaskQueue.executor": "Run",
