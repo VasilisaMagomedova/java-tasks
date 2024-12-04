@@ -38,7 +38,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="feature" />
-                    <option name="lastUsedInstant" value="1733310979" />
+                    <option name="lastUsedInstant" value="1733312535" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
@@ -71,8 +71,10 @@
     "Application.CollectionRemoveDuplicates.executor": "Run",
     "Application.FilteredStream.executor": "Run",
     "Application.FirstMatchToA.executor": "Run",
+    "Application.GroupByLength.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SumOfEvenNumbers.executor": "Run",
+    "Application.Task1Shape.executor": "Run",
     "Application.TaskQueue.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
