@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -75,6 +76,7 @@
     "Application.Main.executor": "Run",
     "Application.SumOfEvenNumbers.executor": "Run",
     "Application.Task1Shape.executor": "Run",
+    "Application.Task2Main.executor": "Run",
     "Application.TaskQueue.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
