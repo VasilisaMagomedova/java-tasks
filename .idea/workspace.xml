@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b355702-5dd9-4e78-8118-bab1e7f64c67" name="Changes" comment="added solutions 1-3 for collection tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Abstract_Classes_And_Interfaces/Task4Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstract_Classes_And_Interfaces/Task4Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Abstract_Classes_And_Interfaces/Task4Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstract_Classes_And_Interfaces/Task4Tiger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="feature" />
-                    <option name="lastUsedInstant" value="1733312535" />
+                    <option name="lastUsedInstant" value="1733385969" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
@@ -75,6 +73,9 @@
     "Application.FilteredStream.executor": "Run",
     "Application.FirstMatchToA.executor": "Run",
     "Application.GroupByLength.executor": "Run",
+    "Application.InterfaceBifunction.executor": "Run",
+    "Application.InterfaceConsumer.executor": "Run",
+    "Application.InterfacePredicate.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SumOfEvenNumbers.executor": "Run",
     "Application.Task1Shape.executor": "Run",
