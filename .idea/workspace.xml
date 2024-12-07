@@ -39,7 +39,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1733554631" />
+                    <option name="lastUsedInstant" value="1733559649" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="feature" />
@@ -71,6 +71,7 @@
     "Application.CollectionMaxEl.executor": "Run",
     "Application.CollectionRemoveDuplicates.executor": "Run",
     "Application.CopyToFile.executor": "Run",
+    "Application.DeleteStringFromFile.executor": "Run",
     "Application.FilteredStream.executor": "Run",
     "Application.FirstMatchToA.executor": "Run",
     "Application.GroupByLength.executor": "Run",
@@ -87,7 +88,7 @@
     "Application.WriteAndReadFile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feature",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
