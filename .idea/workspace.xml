@@ -70,6 +70,7 @@
     "Application.AverageValue.executor": "Run",
     "Application.CollectionMaxEl.executor": "Run",
     "Application.CollectionRemoveDuplicates.executor": "Run",
+    "Application.CopyToFile.executor": "Run",
     "Application.FilteredStream.executor": "Run",
     "Application.FirstMatchToA.executor": "Run",
     "Application.GroupByLength.executor": "Run",
@@ -86,7 +87,7 @@
     "Application.WriteAndReadFile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
