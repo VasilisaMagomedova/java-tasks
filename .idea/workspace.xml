@@ -85,10 +85,11 @@
     "Application.Task2Main.executor": "Run",
     "Application.Task3Vehicle.executor": "Run",
     "Application.TaskQueue.executor": "Run",
+    "Application.UserMain.executor": "Run",
     "Application.WriteAndReadFile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
