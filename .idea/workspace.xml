@@ -39,7 +39,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="feature" />
-                    <option name="lastUsedInstant" value="1733563408" />
+                    <option name="lastUsedInstant" value="1733724781" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
@@ -68,6 +68,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AverageValue.executor": "Run",
+    "Application.Buffer.executor": "Run",
     "Application.CollectionMaxEl.executor": "Run",
     "Application.CollectionRemoveDuplicates.executor": "Run",
     "Application.CopyToFile.executor": "Run",
