@@ -38,12 +38,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1733559649" />
+                    <option name="branchName" value="feature" />
+                    <option name="lastUsedInstant" value="1733563408" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="feature" />
-                    <option name="lastUsedInstant" value="1733554546" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1733563382" />
                   </RecentBranch>
                 </list>
               </option>
@@ -81,6 +81,7 @@
     "Application.InterfacePredicate.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SumOfEvenNumbers.executor": "Run",
+    "Application.SynchronizedMain.executor": "Run",
     "Application.Task1Shape.executor": "Run",
     "Application.Task2Main.executor": "Run",
     "Application.Task3Vehicle.executor": "Run",
