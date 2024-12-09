@@ -39,7 +39,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="feature" />
-                    <option name="lastUsedInstant" value="1733724781" />
+                    <option name="lastUsedInstant" value="1733738316" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
@@ -73,6 +73,7 @@
     "Application.CollectionRemoveDuplicates.executor": "Run",
     "Application.CopyToFile.executor": "Run",
     "Application.DeleteStringFromFile.executor": "Run",
+    "Application.ExecutorMain.executor": "Run",
     "Application.FilteredStream.executor": "Run",
     "Application.FirstMatchToA.executor": "Run",
     "Application.GroupByLength.executor": "Run",
